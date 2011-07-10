@@ -9,7 +9,7 @@ Instrucciones:
 
 Nota:
 
-Este crea tres script crea 3 carpetas dev_flash, dev_flash3 y dev_flash_temp las primeras dos son simplemente el dev_flash desempaquetado totalmente y la tercera es la creacion de las carpetas de los archivos dev_flash.*, en esta podrian ustedes modificar lo que quisieran(NO ME HAGO RESPONSABLE DE LOS DAÑOS QUE PUEDA CAUSAR ESTA HERRAMIENTA) y modificar el script para que se salte hasta el paso de empaquetamiento.
+Este script crea 3 carpetas dev_flash, dev_flash3 y dev_flash_temp las primeras dos son simplemente el dev_flash desempaquetado totalmente y la tercera es la creacion de las carpetas de los archivos dev_flash.*, en esta podrian ustedes modificar lo que quisieran(NO ME HAGO RESPONSABLE DE LOS DAÑOS QUE PUEDA CAUSAR ESTA HERRAMIENTA) y modificar el script para que se salte hasta el paso de empaquetamiento.
 
 ADVERTENCIA:
 
