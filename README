@@ -2,6 +2,7 @@ Este es un script que sirve para desempaquetar y empaquetar el dev_flash del PUP
 
 Instrucciones:
 
+0.- Pongan estas herramientas en una carpeta llamada Des-Emp_dev-flash 
 1.- Necesitan tener desempaquetado el PUP 
 2.- Extraer los archivos del update_files.tar en la carpeta del script
 3.- Ejecutar el script y listo
