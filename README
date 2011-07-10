@@ -1,0 +1,15 @@
+Este es un script que sirve para desempaquetar y empaquetar el dev_flash del PUP utilizando las herramientas de team fail0verflow, geohot y kakaroto, aunque modificadas un poco para un mejor desempeño.
+
+Instrucciones:
+
+1.- Necesitan tener desempaquetado el PUP 
+2.- Extraer los archivos del update_files.tar en la carpeta del script
+3.- Ejecutar el script y listo
+
+Nota:
+
+Este crea tres script crea 3 carpetas dev_flash, dev_flash3 y dev_flash_temp las primeras dos son simplemente el dev_flash desempaquetado totalmente y la tercera es la creacion de las carpetas de los archivos dev_flash.*, en esta podrian ustedes modificar lo que quisieran(NO ME HAGO RESPONSABLE DE LOS DAÑOS QUE PUEDA CAUSAR ESTA HERRAMIENTA) y modificar el script para que se salte hasta el paso de empaquetamiento.
+
+ADVERTENCIA:
+
+NO ME HAGO RESPONSABLE DE DAÑOS QUE PUEDA CAUSAR ESTA HERRAMIENTA SEAN CUIDADOSOS.
