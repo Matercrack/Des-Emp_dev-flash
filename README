@@ -7,6 +7,7 @@ Instrucciones:
 1.- Necesitan tener desempaquetado el PUP 
 2.- Extraer los archivos del update_files.tar en la carpeta del script
 3.- Ejecutar el script y listo
+4.- Por ultimo volver a crear update_files.tar y poner en este de nuevo los dev_flash.* creados junto con los otros archvos del update_files y listo empaquetar de nuevo el PUP
 
 Nota:
 
